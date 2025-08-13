@@ -19,7 +19,7 @@ self.addEventListener('notificationclick', function(event) {
     
     // Mở trang admin khi click vào notification
     event.waitUntil(
-        clients.openWindow('https://689c62d1ca20c605687e2ccb--joyful-medovik-477946.netlify.app/')
+        clients.openWindow('https://https://lemontea.netlify.app/')
     );
 });
 
